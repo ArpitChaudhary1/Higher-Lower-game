@@ -30,6 +30,7 @@ Add a GUI version using Tkinter or PyGame.
 
 Implement a timed challenge. .mode
 
+---
 
 📜 License
 ---
