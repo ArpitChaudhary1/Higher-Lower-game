@@ -24,7 +24,7 @@ The game randomly selects two items from a dataset (e.g., celebrities, brands, o
 ---
 Add more categories to the dataset.
 
-Track high scores using a  file/databa.se
+Track high scores using a  file/database
 
 Add a GUI version using Tkinter or PyGame.
 
