@@ -28,7 +28,7 @@ Track high scores using a  file/database
 
 Add a GUI version using Tkinter or PyGame.
 
-Implement a timed challenge. .mode
+Implement a timed challenge mode
 
 ---
 
