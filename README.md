@@ -6,7 +6,7 @@ A fun and interactive Python console game where you guess whether the second ite
 
 ## 🚀 About the Project
 
-I am in my learning phase of Python and I created this basic game to increase my skill in Python.  
+I am in the learning phase of Python, and I created this basic game to enhance my skills in Python.  
 The game randomly selects two items from a dataset (e.g., celebrities, brands, or social accounts) and challenges the player to guess which one has a higher value (like follower count). It helped me practice function design, data handling, and user input validation.
 
 ---
@@ -22,11 +22,15 @@ The game randomly selects two items from a dataset (e.g., celebrities, brands, o
 ---
 ✅ Future Improvements
 ---
-Add more categories in the dataset
+Add more categories to the dataset.
 
-Track high scores using file/database
+Track high scores using a  file/databa.se
 
-Add a GUI version using Tkinter or PyGame
+Add a GUI version using Tkinter or PyGame.
 
-Implement a timed challenge mode
+Implement a timed challenge. .mode
 
+
+📜 License
+---
+This project is open-source and free to use under the MIT License.
